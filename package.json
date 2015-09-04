@@ -1,0 +1,33 @@
+{
+  "name": "focus-hook",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Focus hook for virtual-dom",
+  "license": "MIT",
+  "repository": "bendrucker/focus-hook",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "virtual-dom",
+    "hook",
+    "focus",
+    "dom"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "next-tick": "~0.2.2",
+    "virtual-hook": "~1.0.1"
+  }
+}
