@@ -1,4 +1,4 @@
-# focus-hook [![Build Status](https://travis-ci.org/bendrucker/focus-hook.svg?branch=master)](https://travis-ci.org/bendrucker/focus-hook)
+# focus-hook [![Build Status](https://travis-ci.org/bendrucker/focus-hook.svg?branch=master)](https://travis-ci.org/bendrucker/focus-hook) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/focus-hook.svg)](https://greenkeeper.io/)
 
 > Focus hook for virtual-dom
 
